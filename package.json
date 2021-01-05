@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.4.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "currency-flags": "git+https://github.com/transferwise/currency-flags.git",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
